@@ -1,0 +1,11 @@
+{
+  "name": "taskflow",
+  "private": true,
+  "version": "1.0.0",
+  "description": "TaskFlow — To-Do List Web App (CodeOrbit Tech Internship Task 2)",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'TaskFlow is a static HTML/CSS/JS app — no build step required. Open index.html directly.'",
+    "dev": "echo 'Open index.html in your browser, or run: python3 -m http.server 8000'"
+  }
+}
